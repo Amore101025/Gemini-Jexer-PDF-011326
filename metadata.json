@@ -1,0 +1,8 @@
+{
+  "name": "FDA 510(k) Agentic Reviewer Pro",
+  "description": "A sophisticated medical device regulatory review platform with Docx-to-PDF conversion, AI-powered OCR using Gemini 2.5 Flash, and intelligent orchestration for FDA submissions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
